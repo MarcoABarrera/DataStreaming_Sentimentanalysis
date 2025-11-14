@@ -1,0 +1,22 @@
+# Core dependencies
+pandas
+numpy
+streamlit
+plotly
+matplotlib
+emoji
+nltk
+afinn
+vaderSentiment
+
+# Kafka clients
+kafka-python
+confluent-kafka
+
+# Machine Learning
+scikit-learn
+torch
+
+# Optional but used
+zstandard
+protobuf
