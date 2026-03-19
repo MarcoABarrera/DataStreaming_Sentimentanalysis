@@ -1,6 +1,4 @@
-# BD25_Project_A1_A
-
-## Sentiment Analysis of Reddit Comments
+## Sentiment Analysis of millions of processed Reddit comments in near real-time
 
 ## Description
 Sentiment analysis is a method in natural language processing (NLP) used to identify, extract, and quantify emotions and subjective information from text. In this project, we aim to determine whether the sentiment expressed in Reddit comments is positive or negative towards specific topics or keywords.
